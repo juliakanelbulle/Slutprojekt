@@ -1,0 +1,39 @@
+C:\Users\Iulia\Documents\Programerings skit\bin\Debug\netcoreapp3.1\Programerings skit.exe
+C:\Users\Iulia\Documents\Programerings skit\bin\Debug\netcoreapp3.1\Programerings skit.deps.json
+C:\Users\Iulia\Documents\Programerings skit\bin\Debug\netcoreapp3.1\Programerings skit.runtimeconfig.json
+C:\Users\Iulia\Documents\Programerings skit\bin\Debug\netcoreapp3.1\Programerings skit.runtimeconfig.dev.json
+C:\Users\Iulia\Documents\Programerings skit\bin\Debug\netcoreapp3.1\Programerings skit.dll
+C:\Users\Iulia\Documents\Programerings skit\bin\Debug\netcoreapp3.1\Programerings skit.pdb
+C:\Users\Iulia\Documents\Programerings skit\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Iulia\Documents\Programerings skit\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Iulia\Documents\Programerings skit\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Iulia\Documents\Programerings skit\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+C:\Users\Iulia\Documents\Programerings skit\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\Iulia\Documents\Programerings skit\bin\Debug\netcoreapp3.1\SharpDX.dll
+C:\Users\Iulia\Documents\Programerings skit\bin\Debug\netcoreapp3.1\SharpDX.Direct2D1.dll
+C:\Users\Iulia\Documents\Programerings skit\bin\Debug\netcoreapp3.1\SharpDX.Direct3D11.dll
+C:\Users\Iulia\Documents\Programerings skit\bin\Debug\netcoreapp3.1\SharpDX.Direct3D9.dll
+C:\Users\Iulia\Documents\Programerings skit\bin\Debug\netcoreapp3.1\SharpDX.DXGI.dll
+C:\Users\Iulia\Documents\Programerings skit\bin\Debug\netcoreapp3.1\SharpDX.Mathematics.dll
+C:\Users\Iulia\Documents\Programerings skit\bin\Debug\netcoreapp3.1\SharpDX.MediaFoundation.dll
+C:\Users\Iulia\Documents\Programerings skit\bin\Debug\netcoreapp3.1\SharpDX.XAudio2.dll
+C:\Users\Iulia\Documents\Programerings skit\bin\Debug\netcoreapp3.1\SharpDX.XInput.dll
+C:\Users\Iulia\Documents\Programerings skit\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+C:\Users\Iulia\Documents\Programerings skit\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+C:\Users\Iulia\Documents\Programerings skit\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+C:\Users\Iulia\Documents\Programerings skit\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+C:\Users\Iulia\Documents\Programerings skit\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+C:\Users\Iulia\Documents\Programerings skit\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+C:\Users\Iulia\Documents\Programerings skit\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+C:\Users\Iulia\Documents\Programerings skit\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+C:\Users\Iulia\Documents\Programerings skit\obj\Debug\netcoreapp3.1\Programerings skit.csproj.AssemblyReference.cache
+C:\Users\Iulia\Documents\Programerings skit\obj\Debug\netcoreapp3.1\Programerings skit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iulia\Documents\Programerings skit\obj\Debug\netcoreapp3.1\Programerings skit.AssemblyInfoInputs.cache
+C:\Users\Iulia\Documents\Programerings skit\obj\Debug\netcoreapp3.1\Programerings skit.AssemblyInfo.cs
+C:\Users\Iulia\Documents\Programerings skit\obj\Debug\netcoreapp3.1\Programerings skit.csproj.CoreCompileInputs.cache
+C:\Users\Iulia\Documents\Programerings skit\obj\Debug\netcoreapp3.1\Programerings skit.csproj.CopyComplete
+C:\Users\Iulia\Documents\Programerings skit\obj\Debug\netcoreapp3.1\Programerings skit.dll
+C:\Users\Iulia\Documents\Programerings skit\obj\Debug\netcoreapp3.1\Programerings skit.pdb
+C:\Users\Iulia\Documents\Programerings skit\obj\Debug\netcoreapp3.1\Programerings skit.genruntimeconfig.cache
+C:\Users\Iulia\Documents\Programerings skit\bin\Debug\netcoreapp3.1\Content\waspy boi-persistence.xnb
+C:\Users\Iulia\Documents\Programerings skit\bin\Debug\netcoreapp3.1\Content\helicoopter.xnb
